@@ -1,0 +1,36 @@
+{
+  "name": "js-express-login-example",
+  "version": "1.0.0",
+  "description": "Node.js Express Login and Registration example",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "keywords:"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "login",
+    "registration",
+    "rest",
+    "api",
+    "jwt",
+    "authentication",
+    "authorization",
+    "mysql"
+  ],
+  "author": "zero",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.8",
+    "sequelize": "^6.37.3"
+  }
+}
